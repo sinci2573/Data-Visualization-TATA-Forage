@@ -37,5 +37,5 @@ Tools and Technologies
 - **Tableau** – Building visualizations for data insights.  
 - **Excel** – Handling raw datasets for visualization.  
 
-**Significance**
+**Significance:** 
 This certification provided hands-on experience in using industry-leading data visualization tools. The exercises and projects helped in understanding how to present complex data effectively, enabling data-driven decision-making.  
